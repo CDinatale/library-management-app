@@ -1,0 +1,31 @@
+1,The Lovely Bones,Alice Sebold,fiction
+2,If It Bleeds,Steven King,fiction
+3,The Widow's Watcher,Eliza Maxwell,fiction
+4,Every Single Secret,Emily Carpenter,fiction
+5,Lies That Bind Us,Andrew Hart,fiction
+6,Where the Crawdads Sing,Delia Owens,fiction
+7,The Glass Castle,Jeannette Walls,non fiction
+8,From the Ashes,Jesse Thistle,non fiction,3.99
+9,Life Is What You Make It,Peter Buffet,non fiction
+10,A Piece of Cake,CupCake Brown,non fiction
+11,Can't Hurt Me,David Goggins,non fiction
+12,Becoming Michelle Obama,Michelle Obama,non fiction
+13,A Mind For Numbers,Barbara Oakley,self help
+14,Unlimited Memory,Kevin Horsley,self help
+15,The 4 Hour Workweek,Timothy Ferris,self help
+16,Meditation and Mindfullness,Andy Puddycombe,self help
+17,Personality Hacker,Joel Mark Witt,self help
+18,Indistractable,Nir Eyal,self help
+19,The Bad Seed,Jory John,children
+20,Pete the Cat,James Dean,children
+21,Mac and Cheese,Sarah Weeks,children
+22,Eraser,Anna Kang,children
+23,When I Grow Up,Al Yankovic,children
+24,Little Blue Truck,Alice Schertle,children
+25,Croatia Strikes Back,Cody McClain Brown,travel
+26,Out Of Instanbul,Bernard Oliver,travel
+27,Into Thin Air,John Krakauer,travel
+28,Travels On My Elephant,Mark Shand,travel
+29,Alone Against The North,Adam Shoalts,travel
+30,The World Atlas Of Coffee,James Hoffman,travel
+31,The World Atlas Of Cake,James Hoffman,travel           

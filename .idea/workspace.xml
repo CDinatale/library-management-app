@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="09617b49-9894-47f0-ace6-4f1e079221a5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="JupyterTrust" id="7e5d0952-d060-406b-a4e7-dccb228b20fb" />
+  <component name="ProjectId" id="1ndgQXHYVJ2MKKRrbKn46UfibH7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09617b49-9894-47f0-ace6-4f1e079221a5" name="Default Changelist" comment="" />
+      <created>1611725367397</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611725367397</updated>
+      <workItem from="1611725369133" duration="394000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="95" y="16" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611725504323">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="95" y="16" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.720/1920.0.2560.1080@0.0.1280.720" timestamp="1611725504323" />
+    <state x="142" y="6" key="SettingsEditor" timestamp="1611725633463">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="142" y="6" key="SettingsEditor/0.0.1280.720/1920.0.2560.1080@0.0.1280.720" timestamp="1611725633463" />
+  </component>
+</project>
